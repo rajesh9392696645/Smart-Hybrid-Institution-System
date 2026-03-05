@@ -60,3 +60,14 @@ Artificial Intelligence plays a crucial role in enabling predictive analytics, s
 Edge computing has recently become an essential component of smart campus architectures. Instead of transmitting raw video streams to the cloud, edge devices perform preliminary processing locally, reducing bandwidth consumption and ensuring faster response times [9]. This is particularly beneficial in attendance systems where real-time recognition is required.
 Furthermore, hybrid architectures combining edge and cloud computing improve system resilience and scalability. Edge nodes handle real-time inference tasks, while the cloud performs centralized data storage, identity matching, and analytics reporting [10]. This distributed model aligns well with the operational requirements of large-scale academic institutions. Thus, Smart Campus technologies form the technological foundation upon which intelligent attendance systems can be effectively designed and deployed.
 Therefore, a Hybrid Edge–Cloud architecture offers an optimal balance between real-time performance, scalability, cost efficiency, and data security, making it highly suitable for AI-based attendance systems in Smart Campus environments.
+Planning to impliment project
+Phase 1 → Project Setup & Planning
+Phase 2 → Database Design
+Phase 3 → Cloud Backend (Microservices)
+Phase 4 → Edge AI Layer
+Phase 5 → Edge ↔ Cloud Integration
+Phase 6 → Frontend Dashboards
+Phase 7 → Analytics & Reporting
+Phase 8 → Evaluation Layer (Thesis Core)
+Phase 9 → Docker & Kubernetes
+Phase 10 → Testing & Documentation
